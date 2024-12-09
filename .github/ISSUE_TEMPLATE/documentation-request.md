@@ -1,19 +1,17 @@
 ---
 name: Documentation Request
-about: Suggest an idea for updatating or creating new documentation
+about: Describe this issue template's purpose here.
 title: ''
 labels: documentation
 assignees: ''
 
 ---
 
-## Is your documentation request related to a problem? If so please describe
-A clear description of the issue eg. "Dependancy documentation needs updating due to a version change"
+## Is your documentation request related to a problem? Please describe.
+A clear and concise description of what the problem is. Ex. "I'm always frustrated when I can't find detailed setup instructions."
 
-## Images or examples of the above documentation problem if neccersary
-Remove if not needed
+## Describe the documentation you'd like
+A clear and concise description of what you want to happen. Ex. "I would like to see a detailed installation guide with screenshots."
 
-## Describe the documentaion changes you would like to make
-A consise explanation to any changes or additions you what made
-
-##Additional context if required
+## Additional context
+Add any other context or screenshots about the documentation request here. Ex. "Including a troubleshooting section would be very helpful."
