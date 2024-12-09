@@ -33,7 +33,7 @@ Examples of unacceptable behavior include:
   professional setting
 
 
-  ## Enforcement Responsibilities
+ ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
